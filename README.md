@@ -61,7 +61,7 @@ install.packages(c("readxl", "ggplot2", "dplyr"))
 ### Execução
 Via terminal, na pasta do projeto:
 ```bash
-Rscript analise_agronegocio.R
+Rscript analise.R
 ```
 
 Ou no console interativo do R:
