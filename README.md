@@ -67,7 +67,7 @@ Rscript analise.R
 Ou no console interativo do R:
 ```r
 setwd("caminho/para/a/pasta")
-source("analise_agronegocio.R")
+source("analise.R")
 ```
 
 ### Saída
