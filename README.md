@@ -14,7 +14,6 @@
 - João Pedro Zavanela Andreu - RM570231
 - Jéssica Paula Miranda Gomes - RM572120
 - Caike Minhano - RM569255
-- Rafael Briani Rodrigues da Costa - RM573086
 - Renan Lucas Seni de Souza - RM570862
 
 ## 👩‍🏫 Professores:
