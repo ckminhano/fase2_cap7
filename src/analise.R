@@ -1,8 +1,6 @@
-# JoaoSantos_RM76332_fase2_cap9
 # CaikeMinhano_rm569255_fase2_cap9
 # JoaoPedro_rm570231_fase2_cap9
 # JessicaPaula_rm572120_fase2_cap9
-# RafaelBriani_rm573086_fase2_cap9
 # RenanSeni_rm570862_fase2_cap9
 
 # =============================================================================
@@ -268,3 +266,6 @@ par(mfrow = c(1, 1))
 
 cat("\n=== ANÁLISE CONCLUÍDA ===\n")
 cat("Arquivos gerados: analise_quantitativa.png, analise_qualitativa.png\n")
+
+# Link github
+# https://github.com/ckminhano/fase2_cap7
